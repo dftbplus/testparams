@@ -1,0 +1,32 @@
+(c) 2017, Thomas Frauenheim, Universität Bremen
+All rights reserved
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, consult the LICENSE file
+or visit http://creativecommons.org/licenses/by-sa/4.0/ .
+
+NOTE: The rights holder(s) for this work explicitly require that the attribution
+conditions of this license are enforced. Use in part or in whole of this data is
+permitted only under the condition that the scientific background of the
+Licensed Material will be CITED IN ANY PUBLICATIONS ARISING FROM ITS USE. The
+required references are specified in this file and must be included in resulting works.
+
+
+Description
+-----------
+
+This set consists of Slater-Koster files derived from pbc-0-3 or mio-1-1 for testing 
+purposes of specific features of the transport code.
+ 
+H-H-noS.skf  is created to reproduce first neighbor orthogonal tight-binding results.
+Si-H.skf     is created to have two non-equal 's' atoms.
+Sin-Sin.skf  is created with a trick to 'n-dope' a Silicon nanowire. 
+H-H.skf      is only for saturation purposes.
+
+WARNING: These files have no physical sense and should not be used for calculations.
+
+Required references
+-------------------
+
+Not applicable since cannot be used in practical calculations
+
