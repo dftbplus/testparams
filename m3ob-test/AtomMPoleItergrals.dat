@@ -1,0 +1,22 @@
+   #H
+   H:S_XX_S          =     0.55976
+   #C
+   C:S_X_Px          =     0.79621
+   C:S_XX_S          =     0.76689
+   C:Px_XX_Px        =     1.38550
+   C:Py_XX_Py        =     0.46183
+   #N
+   N:S_X_Px          =     0.68857
+   N:S_XX_S          =     0.57638
+   N:Px_XX_Px        =     1.05308
+   N:Py_XX_Py        =     0.35103
+   #O
+   O:S_X_Px          =     0.60894
+   O:S_XX_S          =     0.45215
+   O:Px_XX_Px        =     0.83893
+   O:Py_XX_Py        =     0.27964
+   #Mg
+  Mg:S_X_Px          =     1.43912
+  Mg:S_XX_S          =     2.17459
+  Mg:Px_XX_Px        =     4.70922
+  Mg:Py_XX_Py        =     1.56974
