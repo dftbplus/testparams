@@ -1,0 +1,21 @@
+Description
+===========
+
+This set consists of Slater-Koster files for hexagonal Boron Nitride
+(h-BN) derived using the methodology described in reference [1] but
+with GGA (PBE) functionals. These files are specifically provided for
+testing and validating the implementation of real-time time-dependent
+density-functional tight-binding (RT-TD-DFTB) in periodic systems.
+
+These parameters are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License. (c) 2025, Charly
+Medrano.
+
+WARNING: These parameters are intended for tests of real-time TD-DFTB
+with periodic boundary conditions. They should not be used for
+production.
+
+1. Hybrid functionals for periodic systems in the density functional
+tight-binding method Tammo van der Heide, Bálint Aradi, Ben Hourahine,
+Thomas Frauenheim, and Thomas A. Niehaus Phys. Rev. Materials 7,
+063802 (2023) https://doi.org/10.1103/PhysRevMaterials.7.063802
